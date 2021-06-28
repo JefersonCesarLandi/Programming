@@ -1,4 +1,4 @@
-# template_fast-vue
+# second-template_fast-vue
 
 ## Project setup
 ```
